@@ -3,9 +3,8 @@ author:
   name: GitHub User
   email: sakeeljawfer@gmail.com
 #description: # this means to ignore newlines until "show_excerpts:"
-  degreee: (Reading) Bachelor of Information Communication Technology (Hons) Software Technologies
-  faculty : Faculty of Technology
-  university: SEUSL
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://sakeeljawfer.github.io/Cv/"
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
