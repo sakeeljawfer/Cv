@@ -1,11 +1,11 @@
-title: Your awesome title
+title: Sakeel Jawfer
 author:
   name: GitHub User
-  email: your-email@domain.com
-description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  email: sakeeljawfer@gmail.com
+#description: # this means to ignore newlines until "show_excerpts:"
+  degreee: (Reading) Bachelor of Information Communication Technology (Hons) Software Technologies
+  faculty : Faculty of Technology
+  university: SEUSL
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -16,8 +16,11 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: sakeel jawfer
+    github:  sakeeljawfer
+    linkedin: sakeeljawfer
+    stackoverflow: https://stackoverflow.com/users/8938138/sakeel-jawfer
+    youtube: sakeel jawfer
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
