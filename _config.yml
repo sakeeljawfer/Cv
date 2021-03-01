@@ -3,8 +3,8 @@ author:
   name: GitHub User
   email: sakeeljawfer@gmail.com
 #description: # this means to ignore newlines until "show_excerpts:"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sakeeljawfer.github.io/Cv/"
+baseurl: "MINIMA" # the subpath of your site, e.g. /blog
+# url: "https://sakeeljawfer.github.io/Cv/"
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
